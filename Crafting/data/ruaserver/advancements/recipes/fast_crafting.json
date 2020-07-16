@@ -4,12 +4,12 @@
         "recipes": [
             "ruaserver:fast_crafting/bone_block",
             "ruaserver:fast_crafting/box",
-            "ruaserver:fast_crafting/chest_minecraft_1",
-            "ruaserver:fast_crafting/chest_minecraft_2",
+            "ruaserver:fast_crafting/chest_minecart_1",
+            "ruaserver:fast_crafting/chest_minecart_2",
             "ruaserver:fast_crafting/furnace_minecart",
             "ruaserver:fast_crafting/hopper",
-            "ruaserver:fast_crafting/hopper_minecraft",
-            "ruaserver:fast_crafting/tnt_minecraft",
+            "ruaserver:fast_crafting/hopper_minecart",
+            "ruaserver:fast_crafting/tnt_minecart",
             "ruaserver:fast_crafting/."
         ]
     },
@@ -30,12 +30,12 @@
                 "recipes": [
                     "ruaserver:fast_crafting/bone_block",
                     "ruaserver:fast_crafting/box",
-                    "ruaserver:fast_crafting/chest_minecraft_1",
-                    "ruaserver:fast_crafting/chest_minecraft_2",
+                    "ruaserver:fast_crafting/chest_minecart_1",
+                    "ruaserver:fast_crafting/chest_minecart_2",
                     "ruaserver:fast_crafting/furnace_minecart",
                     "ruaserver:fast_crafting/hopper",
-                    "ruaserver:fast_crafting/hopper_minecraft",
-                    "ruaserver:fast_crafting/tnt_minecraft",
+                    "ruaserver:fast_crafting/hopper_minecart",
+                    "ruaserver:fast_crafting/tnt_minecart",
                     "ruaserver:fast_crafting/."
                 ]
             }
