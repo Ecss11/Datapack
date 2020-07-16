@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "psp",
+        "pSp",
+        "p p"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "p": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "s": {
+            "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "minecraft:elytra",
+        "count": 1
+    },
+    "group": "ruaserver"
+}

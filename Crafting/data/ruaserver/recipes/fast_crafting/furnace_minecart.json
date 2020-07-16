@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "ici",
+        "iii"
+    ],
+    "key":{
+        "c":{
+            "item": "minecraft:furnace"
+        },
+        "i":{
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result":{
+        "item":"minecraft:furnace_minecart",
+        "count":1
+    },
+    "group": "ruaserver"
+}

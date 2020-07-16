@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ppp",
+        "pep",
+        "ppp"
+    ],
+    "key": {
+        "e": {
+            "item": "minecraft:ender_pearl"
+        },
+        "p": {
+            "item": "minecraft:popped_chorus_fruit"
+        }
+    },
+    "result": {
+        "item": "minecraft:shulker_shell",
+        "count": 2
+    },
+    "group": "ruaserver"
+}
