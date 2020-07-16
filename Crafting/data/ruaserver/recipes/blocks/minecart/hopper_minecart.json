@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "xxx",
+        "ici",
+        "iii"
+    ],
+    "key":{
+        "c":"minecraft:hopper",
+        "i":"minecraft:iron_ingot"
+    },
+    "result":{
+        "item":"minecraft:hopper_minecart",
+        "count":1
+    },
+    "group": "ruaserver"
+  }
