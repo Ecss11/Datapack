@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  L",
+        "lll",
+        "l l"
+    ],
+    "key": {
+        "L": {
+            "item": "minecraft:lead"
+        },
+        "l": {
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+        "item": "",
+        "count": 0
+    },
+    "group": "ruaserver"
+}
