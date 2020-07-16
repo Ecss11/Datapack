@@ -1,12 +1,12 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "xxx",
+        "   ",
         "ici",
         "iii"
     ],
     "key":{
-        "c":"minecraft:chest",
+        "c":"minecraft:logs",
         "i":"minecraft:iron_ingot"
     },
     "result":{
