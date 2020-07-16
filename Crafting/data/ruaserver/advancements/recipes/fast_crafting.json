@@ -27,7 +27,7 @@
         "has_the_recipes": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipes": [
+                "recipe": [
                     "ruaserver:fast_crafting/bone_block",
                     "ruaserver:fast_crafting/box",
                     "ruaserver:fast_crafting/chest_minecart_1",

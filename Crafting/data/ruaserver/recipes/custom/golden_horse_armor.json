@@ -9,60 +9,12 @@
         "g": {
             "item": "minecraft:gold_ingot"
         },
-        "w": [
-            {
-                "item": "minecraft:white_wool"
-            },
-            {
-                "item": "minecraft:orange_wool"
-            },
-            {
-                "item": "minecraft:magenta_wool"
-            },
-            {
-                "item": "light_blue_wool"
-            },
-            {
-                "item": "yellow_wool"
-            },
-            {
-                "item": "lime_wool"
-            },
-            {
-                "item": "pink_wool"
-            },
-            {
-                "item": "gray_wool"
-            },
-            {
-                "item": "light_gray_wool"
-            },
-            {
-                "item": "cyan_wool"
-            },
-            {
-                "item": "purple_wool"
-            },
-            {
-                "item": "blue_wool"
-            },
-            {
-                "item": "brown_wool"
-            },
-            {
-                "item": "green_wool"
-            },
-            {
-                "item": "red_wool"
-            },
-            {
-                "item": "black_wool"
-            }
-        ]
+        "w": {
+            "tag": "minecraft:wool"
+        }
     },
     "result": {
         "item": "minecraft:golden_horse_armor",
         "count": 1
-    },
-    "group": "ruaserver"
+    }
 }

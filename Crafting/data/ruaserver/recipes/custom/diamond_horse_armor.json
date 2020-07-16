@@ -9,7 +9,9 @@
         "d": {
             "item": "minecraft:diamond"
         },
-        "w": {}
+        "w": {
+            "tag": "minecraft:wool"
+        }
     },
     "result": {
         "item": "minecraft:diamond_horse_armor",

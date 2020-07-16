@@ -25,7 +25,7 @@
         "has_the_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipes": [
+                "recipe": [
                     "ruaserver:custom/elytra",
                     "ruaserver:custom/diamond_horse_armor",
                     "ruaserver:custom/enchanted_golden_apple",
