@@ -6,8 +6,12 @@
         "iii"
     ],
     "key":{
-        "c":"minecraft:tnt",
-        "i":"minecraft:iron_ingot"
+        "c":{
+            "item": "minecraft:tnt"
+        },
+        "i":{
+            "item": "minecraft:iron_ingot"
+        }
     },
     "result":{
         "item":"minecraft:tnt_minecart",

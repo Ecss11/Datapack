@@ -6,8 +6,12 @@
         " i "
     ],
     "key":{
-        "c":"minecraft:logs",
-        "i":"minecraft:iron_ingot"
+        "c":{
+            "tag": "minecraft:logs"
+        },
+        "i":{
+            "item": "minecraft:iron_ingot"
+        }
     },
     "result":{
         "item":"minecraft:hopper",
