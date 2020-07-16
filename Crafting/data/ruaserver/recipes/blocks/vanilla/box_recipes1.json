@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:logs"
+      },
+      {
+        "item": "minecraft:logs"
+      }
+    ],
+    "result": {
+      "item": "minecraft:chest",
+      "count": 1
+    },
+    "group": "ruaserver"
+  }

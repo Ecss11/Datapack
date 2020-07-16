@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ici",
+        "ici",
+        "xix"
+    ],
+    "key":{
+        "c":"minecraft:logs",
+        "i":"minecraft:iron_ingot"
+    },
+    "result":{
+        "item":"minecraft:hopper",
+        "count":1
+    },
+    "group": "ruaserver"
+  }
