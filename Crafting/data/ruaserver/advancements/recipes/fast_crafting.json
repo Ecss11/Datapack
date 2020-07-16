@@ -2,7 +2,15 @@
     "parent": "ruaserver:root",
     "rewards": {
         "recipes": [
-            "ruaserver:fast_crafting/bone_block"
+            "ruaserver:fast_crafting/bone_block",
+            "ruaserver:fast_crafting/box",
+            "ruaserver:fast_crafting/chest_minecraft_1",
+            "ruaserver:fast_crafting/chest_minecraft_2",
+            "ruaserver:fast_crafting/furnace_minecart",
+            "ruaserver:fast_crafting/hopper",
+            "ruaserver:fast_crafting/hopper_minecraft",
+            "ruaserver:fast_crafting/tnt_minecraft",
+            "ruaserver:fast_crafting/."
         ]
     },
     "criteria": {
@@ -19,7 +27,17 @@
         "has_the_recipes": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "ruaserver:fast_crafting/bone_block"
+                "recipes": [
+                    "ruaserver:fast_crafting/bone_block",
+                    "ruaserver:fast_crafting/box",
+                    "ruaserver:fast_crafting/chest_minecraft_1",
+                    "ruaserver:fast_crafting/chest_minecraft_2",
+                    "ruaserver:fast_crafting/furnace_minecart",
+                    "ruaserver:fast_crafting/hopper",
+                    "ruaserver:fast_crafting/hopper_minecraft",
+                    "ruaserver:fast_crafting/tnt_minecraft",
+                    "ruaserver:fast_crafting/."
+                ]
             }
         }
     },

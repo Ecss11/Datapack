@@ -3,7 +3,12 @@
     "rewards": {
         "recipes": [
             "ruaserver:custom/elytra",
-            "ruaserver:custom/"
+            "ruaserver:custom/diamond_horse_armor",
+            "ruaserver:custom/enchanted_golden_apple",
+            "ruaserver:custom/golden_horse_armor",
+            "ruaserver:custom/iron_horse_armor",
+            "ruaserver:custom/saddle",
+            "ruaserver:custom/shulker_shell"
         ]
     },
     "criteria": {
@@ -20,7 +25,15 @@
         "has_the_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "ruaserver:custom/elytra"
+                "recipes": [
+                    "ruaserver:custom/elytra",
+                    "ruaserver:custom/diamond_horse_armor",
+                    "ruaserver:custom/enchanted_golden_apple",
+                    "ruaserver:custom/golden_horse_armor",
+                    "ruaserver:custom/iron_horse_armor",
+                    "ruaserver:custom/saddle",
+                    "ruaserver:custom/shulker_shell"
+                ]
             }
         }
     },
