@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bbb",
+        "bgb",
+        "bbb"
+    ],
+    "key": {
+        "b": {
+            "item": "minecraft:bone_block"
+        },
+        "g": {
+            "tag": "minecraft:impermeable"
+        }
+    },
+    "result": {
+        "item": "minecraft:quartz_block",
+        "count": 8
+    }
+}
