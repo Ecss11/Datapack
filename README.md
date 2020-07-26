@@ -41,4 +41,4 @@
 ![hopper](images/Hopper.png)
 
 ## 自定义掉落 Custom Loot
-1. 守卫者可以掉落海绵
+### 1. 守卫者可以掉落海绵 Guardian drops Sponge
