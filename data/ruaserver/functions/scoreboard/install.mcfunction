@@ -1,1 +1,1 @@
-scoreboard objectives add PlaceBlock minecraft.used:acacia_boat
+
