@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " i ",
+        " s ",
+        " f "
+    ],
+    "key": {
+        "f": {
+            "item": "minecraft:feather"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "s": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:arrow",
+        "count": 3
+    },
+    "group": "arrow"
+}
