@@ -1,21 +1,6 @@
 # RUA 服务器用数据包 Minecraft Datapack for RUA Server
 
 ## 自定义合成 Custom Recipes
-
-1. 钻石/铁/金马铠 Diamond/Iron/Golden Horse Armor
-2. 鞘翅 Elytra
-3. 附魔金苹果 Enchanted Golden Apple
-4. 鞍 Saddle
-5. 潜影壳 Shulker Shell
-6. +蛛网、线互相合成 Cobweb & String
-7. +潮涌之心 Heart of the sea
-8. +石英块 Quartz Block
-9. +三叉戟 Trident
-
-
-# RUA 服务器用数据包 Minecraft Datapack for RUA Server
-
-## 自定义合成 Custom Recipes
 ### 1. 钻石/铁/金马铠 Diamond/Iron/Golden Horse Armor
 ![dhorsearmor](images/DiamondHorseArmor.png)
 ![ihorsearmor](images/IronHorseArmor.png)
