@@ -10,7 +10,7 @@
             "item": "minecraft:bone_block"
         },
         "g": {
-            "tag": "minecraft:impermeable"
+            "item": "minecraft:glass"
         }
     },
     "result": {
